@@ -1,0 +1,22 @@
+{
+  "name": "softwarequality",
+  "version": "1.0.0",
+  "description": "Якість програмного забезпечення 8 семестр",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChumachenkoMihail/softwareQuality.git"
+  },
+  "author": "Chumachenko Michael <m.chumachenko@monosoft.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChumachenkoMihail/softwareQuality/issues"
+  },
+  "homepage": "https://github.com/ChumachenkoMihail/softwareQuality#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
